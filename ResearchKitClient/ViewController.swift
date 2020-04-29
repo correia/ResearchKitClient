@@ -7,14 +7,17 @@
 //
 
 import UIKit
+import ResearchKit
 
 class ViewController: UIViewController {
+    @IBOutlet var label: UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        label.text = "ResearchKit Client"
+
+        let task = ORKOrderedTask(identifier: "D0902C60-089E-404D-B543-3C9084E2432B", steps: nil)
+        print(task)
     }
-
-
 }
 
