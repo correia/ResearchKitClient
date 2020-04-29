@@ -56,6 +56,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5F1EB1612459F69F005E8951 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5F4495812459EAB6002EBD38 /* ResearchKitClient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ResearchKitClient.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F4495842459EAB6002EBD38 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5F4495862459EAB6002EBD38 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -82,6 +83,7 @@
 		5F4495782459EAB6002EBD38 = {
 			isa = PBXGroup;
 			children = (
+				5F1EB1612459F69F005E8951 /* README.md */,
 				5FDFEA862459EBE60005A807 /* Submodules */,
 				5F4495832459EAB6002EBD38 /* ResearchKitClient */,
 				5F4495822459EAB6002EBD38 /* Products */,
